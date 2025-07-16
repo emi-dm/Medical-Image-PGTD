@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+*/models/*
+.env
+.env.*
+
+
+spleen_ct_segmentation/*
+
+notebooks/my_cache/*
+notebooks/qin-prostate-repeatability/*
+notebooks/Task04_Hippocampus/*
+notebooks/._Task04_Hippocampus
+notebooks/Task04_Hippocampus.tar
